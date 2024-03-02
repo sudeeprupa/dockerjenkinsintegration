@@ -36,7 +36,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
-        <finalName>spring-devops1</finalName>
+        <finalName>spring-devops3</finalName>
     </build>
 
 </project>
